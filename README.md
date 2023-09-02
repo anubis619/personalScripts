@@ -7,7 +7,7 @@ Might not be amazing in look but I am learning by doing.
 
 ## WarThunder replay moving script
 
-Location: [WarthunderScript](/Scripts/Powershell/script.ps1)  
+Location: [WarthunderScript](/Scripts/Powershell/warThunder_replay.ps1)  
 
 When playing WarThunder Nvidia Gforce Experiece has a feature that captures 30 seconds of specific settings that I have selected. The main parts that I'm interested are kills of enemy or teammates (mostly by mistake :smile:)
 

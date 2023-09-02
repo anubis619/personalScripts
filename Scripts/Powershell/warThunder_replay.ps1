@@ -16,7 +16,6 @@ $partitionSize = $partitionSize - 30
 $getPathSize = [math]::Round((Get-ChildItem -Path $recordingPath -Recurse | Measure-Object -Property Length -Sum).Sum / 1GB, 2)
 
 # Creating the needed data to log the informaiton.
-$logDate = Get-Date -Format "dd/MM/YYYY"
 $logPath = "C:\Users\Anubis\Documents\scriptLogs"
 
 # Creating the log mechanism
